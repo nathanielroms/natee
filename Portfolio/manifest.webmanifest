@@ -1,0 +1,24 @@
+{
+  "name": "Mobile Computing",
+  "short_name": "PWA",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "red",
+  "background_color": "#fff",
+  
+  "description": "My first PWA",
+  "icons": [
+    {
+      "src": "icon1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

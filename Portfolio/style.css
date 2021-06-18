@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body
+{
+    background-color: cornsilk;
+}
+ 
+
+.navbar
+{
+    width: 85%;
+    margin: auto;
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo
+{
+    width: 120px;
+    cursor: pointer;
+}
+
+.navbar ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.main_container
+{
+    
+    margin: auto;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    min-height: auto;
+    background: cornsilk;
+    
+}
+
+.h1,p
+{
+    text-align: center;
+    
+} 
+
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
